@@ -1,0 +1,52 @@
+#box {
+				background-color: white;
+				border-radius: 10px 20px 30px;
+				position: ;
+				border: 1px solid black;
+				padding:10px;
+
+
+			}
+.text {
+				position: center;
+			}
+form {
+		 		background-color: white;
+				border-radius: 10px 20px 20px;
+				position: ;
+				border: 1px solid black;
+				padding: 10px;
+		 	}
+}
+table{
+	border:1px solid #eeeeee;
+	border-collapse: collapse;
+	width:100%;
+}
+
+table th{
+	border:1px solid #eeeeee;
+	text-align:center;
+	color:#c04e22;
+	height:40px;
+}
+table td{
+	border:1px solid #eeeeee;
+	padding:5px;
+	
+}
+
+#loader{
+	display:none;
+	margin-top:10px;
+}
+
+#customer-data{
+	margin-top:10px;
+}
+
+#customer-list{
+	height:30px;
+	width:250px;
+}
+			}
